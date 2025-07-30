@@ -1,0 +1,32 @@
+{
+  "immigration_legal": {
+    "name": "Immigration & Legal",
+    "description": "Legal services, immigration assistance, and advocacy",
+    "icon": "fas fa-balance-scale"
+  },
+  "goods_clothing": {
+    "name": "Goods & Clothing",
+    "description": "Free clothing, household items, and material assistance",
+    "icon": "fas fa-tshirt"
+  },
+  "utilities": {
+    "name": "Utilities",
+    "description": "Assistance with electric, gas, water, and internet bills",
+    "icon": "fas fa-bolt"
+  },
+  "mental_health_substance_abuse": {
+    "name": "Mental Health & Substance Abuse",
+    "description": "Counseling, therapy, addiction treatment, and mental health services",
+    "icon": "fas fa-brain"
+  },
+  "housing": {
+    "name": "Housing",
+    "description": "Emergency shelter, transitional housing, and permanent housing assistance",
+    "icon": "fas fa-home"
+  },
+  "food": {
+    "name": "Food",
+    "description": "Food pantries, meal programs, and nutrition assistance",
+    "icon": "fas fa-utensils"
+  }
+}
